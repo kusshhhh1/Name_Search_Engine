@@ -17,12 +17,11 @@ A modern and professional web app built with Bolt.new that allows users to searc
 4. Results are displayed as clickable titles with URLs below the search input
 
 ## Technologies Used
-- Bolt.new for fast and easy app development
 - Google Search API / scraping (depending on API availability)
 - Modern CSS for clean, responsive UI
 
 ## Usage
-Simply clone or fork this repository and open it in Bolt.new environment or deploy it as per your setup.
+Simply clone or fork this repository deploy it as per your setup.
 
 
 
